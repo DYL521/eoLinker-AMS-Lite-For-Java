@@ -42,16 +42,3 @@ eoLinker AMS Lite专为10人以内的小型团队设计，接近线上产品的�
 
 2. [帮助中心](http://help.eolinker.com)
 
-3. 官方交流Q群：
-	[用户讨论1群(已满，暂停加入)](https://jq.qq.com/?_wv=1027&k=5ieOtY7)
-	[用户讨论2群(已满，暂停加入)](https://jq.qq.com/?_wv=1027&k=5eVxKs3)
-	[用户讨论3群(已满，暂停加入)](https://jq.qq.com/?_wv=1027&k=5X2GVFf)
-	[用户讨论4群(已满，暂停加入)](https://jq.qq.com/?_wv=1027&k=51Kk8Lz)
-	[用户讨论5群(开放)：707530721](https://jq.qq.com/?_wv=1027&k=5lDoleL)
-
-## 图片介绍
-
-![](http://data.eolinker.com/course/UKqa58Lb051cf1085b22bf4d1e24c52022c981dc32166bd)
-![](http://data.eolinker.com/course/nNmSD28e4ef5c7339c5449cb4f8c5904be7f025d0d6ae72)
-![](http://data.eolinker.com/course/Rgz8DcQ4f21471cb1172573fdb595a1c165148f6bcfdb22)
-![](http://data.eolinker.com/course/JPGkitw9d6f38f7fc541d9202850c3dffe82d1e575c2a6c)
